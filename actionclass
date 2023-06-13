@@ -21,6 +21,9 @@ public class ActionClass {
 		//Right click
 		actions.moveToElement(driver.findElement(By.id("icp-nav-flyout"))).contextClick().build().perform();
 		
+		
+		// Enter some text into search box-87
+		// Enter some text into search box-87
 	}
 
 }
